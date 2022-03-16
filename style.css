@@ -1,0 +1,27 @@
+body{
+    background-color: chartreuse;
+}
+body img{
+    size: 50%;
+}
+h1{
+    color:darkgreen;
+    border-style: solid;
+    border-color: blue;
+}
+ol{
+    border-style: dotted;
+    color: hotpink;
+}
+ol li b {
+    color: black;
+}
+ol li{
+    color:darkmagenta;
+}
+.Keterangan{
+    background-color: deeppink;
+}
+.form-label{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
